@@ -12,7 +12,7 @@ I assert that this work is my own. I have appropriately acknowledged any and all
 Compiling the program
 The program should be compiled using the following flags: -std=c99 -Wall
 compiling:
-gcc givenA2.c ezzeddineLaraA2.c  -std=c99 -Wall
+gcc givenA2.c tictactoeLara.c  -std=c99 -Wall
 Running the Program Running: ./a.out
 
 
